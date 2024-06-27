@@ -31,6 +31,7 @@ else if (answer.operation==="REMINDER"){
 else{
     console.log("ENTER YOUR NUMBER FIRST")
 }
+console.log("the end")
 ////to run the code in npm run these commands/////////////////
 ///////////////////////npm login//////////
 //////////////////////your package name is o be unique//////////
